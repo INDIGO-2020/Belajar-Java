@@ -1,2 +1,3 @@
 # Belajar-Java
-Learning Java Programming
+I Learn about Java OOP
+So Please keep your spirit on your soul
